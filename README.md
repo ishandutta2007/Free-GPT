@@ -18,15 +18,27 @@ These platforms host Claude models on their infrastructure and give users free d
 * 🎭 **[Poe](https://poe.com/):** A multi-bot platform by Quora that provides free daily compute points. You can spend these points to chat with **Claude Sonnet** or **Claude Opus** until your daily free balance resets. 
 * 🦁 **[Brave Leo AI](https://brave.com/leo/):** Built directly into the Brave browser, the free tier of their Leo assistant allows you to select **Claude** as the underlying model for webpage summarization and general chat.
 
+These platforms host OpenAI models on their infrastructure and give users free daily allowances:
+* **DuckDuckGo AI Chat:** Offers completely anonymous, free daily access to **GPT-5.4 mini** and **GPT-5.4 nano**. It requires no account signup, masks your IP address, and does not use your data for training.
+* **Poe:** A multi-bot platform by Quora that provides free daily compute points. You can spend these points to chat with various **GPT models** until your daily free balance resets. 
+* **LMSYS Chatbot Arena:** A free research platform (lmarena.ai) where you can chat with the latest **GPT flagship models** completely free. You can use the "Direct Chat" tab to select a specific model or use "Battle" mode to see side-by-side responses anonymously.
+
+
 ## 🎓 Official Grant Programs
 Anthropic runs structured grant programs providing high-tier Claude access to specific communities:
 * 💻 **[Claude for Open Source](https://claude.com/contact-sales/claude-for-oss):** This initiative targets public software maintainers. Eligible developers receive 6 months of **Claude Max 20x** (a tier normally valued at $200/month) for free. Requirements include maintaining a public repository with over 5,000 GitHub stars or high monthly download volumes.
 * 🔬 **[AI for Science Grants](https://www.anthropic.com/):** Focused on accelerating academic and scientific breakthroughs. For example, their focused track for rare genetic disease research provides accepted scientists and early-stage biotechs with up to **$50,000 in Claude API credits** over a six-month period.
+OpenAI runs structured grant programs providing high-tier API access to specific startup, research, and non-profit communities:
+* **OpenAI Startup Grants:** This initiative targets early-stage AI founders. Eligible startups accepted into the OpenAI Founders program or partnered venture accelerators can receive up to **$100,000 in free OpenAI API credits** to build and scale their apps without burning cash.
+* **Microsoft Founders Hub:** Because of Microsoft's close partnership with OpenAI, startups accepted into this free program receive up to **$150,000 in Azure cloud credits**, which can be spent directly to access OpenAI models via Azure OpenAI Service.
 
 ## ☁️ Startup Cloud Credits
 If you are building a startup, you can access Claude for free through major cloud provider grants where Claude is natively hosted:
 * ☁️ **[Google Cloud for Startups](https://cloud.google.com/startup):** Gives qualifying new startup accounts **$300 in free credits**. These credits can be spent to call Claude models hosted on Google Vertex AI.
 * ☁️ **[AWS Activate](https://aws.amazon.com/activate/):** Provides promotional cloud credits that can be directly applied to use Claude models through **Amazon Bedrock**.
+You can access OpenAI credits for free through trial allocations, partner developer tools, and community events:
+* **Developer Trial Credits:** New developer accounts on the OpenAI API platform occasionally receive small, introductory **free trial credits** (historically around $5) valid for a few months to test code and endpoints.
+* **Hackathons & Competitions:** OpenAI regularly sponsors major AI hackathons (such as those hosted on Devpost or Lablab.ai). Participants often receive temporary **free API keys** or promotional token credits for the duration of the event.
 
 ##  Star History
 <div align="center">

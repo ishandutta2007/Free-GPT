@@ -1,0 +1,45 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e">
+        <animate attributeName="stop-color" values="#1a1a2e; #16213e; #0f3460; #1a1a2e" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#e94560">
+        <animate attributeName="stop-color" values="#e94560; #d92027; #ff9234; #e94560" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="800" height="200" rx="15" fill="url(#bg)" />
+  
+  <!-- Animated circles for background effect -->
+  <circle cx="100" cy="50" r="30" fill="rgba(255,255,255,0.1)">
+    <animate attributeName="cy" values="50; 150; 50" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="100; 120; 100" dur="7s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="700" cy="150" r="50" fill="rgba(255,255,255,0.1)">
+    <animate attributeName="cy" values="150; 50; 150" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="700; 650; 700" dur="8s" repeatCount="indefinite" />
+  </circle>
+
+  <circle cx="400" cy="100" r="80" fill="rgba(255,255,255,0.05)">
+    <animate attributeName="r" values="80; 120; 80" dur="4s" repeatCount="indefinite" />
+  </circle>
+
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle" filter="url(#glow)">
+    Free-Claude
+    <animate attributeName="opacity" values="0.8; 1; 0.8" dur="3s" repeatCount="indefinite" />
+  </text>
+  
+  <text x="50%" y="75%" font-family="Arial, sans-serif" font-size="24" fill="#eeeeee" text-anchor="middle" alignment-baseline="middle">
+    Unlock AI For Free
+  </text>
+</svg>
