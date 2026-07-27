@@ -45,4 +45,4 @@ You can access OpenAI credits for free through trial allocations, partner develo
 </picture>
 </a>
 </div>
-# Free-GPT
+
