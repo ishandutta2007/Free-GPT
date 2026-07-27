@@ -16,24 +16,24 @@ Discover the best ways to access Anthropic's GPT AI models for free. This guide 
 
 These platforms host OpenAI models on their infrastructure and give users free daily allowances:
 
-* **DuckDuckGo AI Chat:** Offers completely anonymous, free daily access to **GPT-5.4 mini** and **GPT-5.4 nano**. It requires no account signup, masks your IP address, and does not use your data for training.
-* **Poe:** A multi-bot platform by Quora that provides free daily compute points. You can spend these points to chat with various **GPT models** until your daily free balance resets. 
-* **LMSYS Chatbot Arena:** A free research platform (lmarena.ai) where you can chat with the latest **GPT flagship models** completely free. You can use the "Direct Chat" tab to select a specific model or use "Battle" mode to see side-by-side responses anonymously.
+* **[DuckDuckGo AI Chat](https://duckduckgo.com/aichat):** Offers completely anonymous, free daily access to **GPT-5.4 mini** and **GPT-5.4 nano**. It requires no account signup, masks your IP address, and does not use your data for training.
+* **[Poe](https://poe.com/):** A multi-bot platform by Quora that provides free daily compute points. You can spend these points to chat with various **GPT models** until your daily free balance resets. 
+* **[LMSYS Chatbot Arena](https://lmarena.ai/):** A free research platform (lmarena.ai) where you can chat with the latest **GPT flagship models** completely free. You can use the "Direct Chat" tab to select a specific model or use "Battle" mode to see side-by-side responses anonymously.
 
 
 ## 🎓 Official Grant Programs
 
 OpenAI runs structured grant programs providing high-tier API access to specific startup, research, and non-profit communities:
 
-* **OpenAI Startup Grants:** This initiative targets early-stage AI founders. Eligible startups accepted into the OpenAI Founders program or partnered venture accelerators can receive up to **$100,000 in free OpenAI API credits** to build and scale their apps without burning cash.
-* **Microsoft Founders Hub:** Because of Microsoft's close partnership with OpenAI, startups accepted into this free program receive up to **$150,000 in Azure cloud credits**, which can be spent directly to access OpenAI models via Azure OpenAI Service.
+* **[OpenAI Startup Grants](https://openai.com/startups):** This initiative targets early-stage AI founders. Eligible startups accepted into the OpenAI Founders program or partnered venture accelerators can receive up to **$100,000 in free OpenAI API credits** to build and scale their apps without burning cash.
+* **[Microsoft Founders Hub](https://startups.microsoft.com/):** Because of Microsoft's close partnership with OpenAI, startups accepted into this free program receive up to **$150,000 in Azure cloud credits**, which can be spent directly to access OpenAI models via Azure OpenAI Service.
 
 ## ☁️ Startup Cloud Credits
 
 You can access OpenAI credits for free through trial allocations, partner developer tools, and community events:
 
-* **Developer Trial Credits:** New developer accounts on the OpenAI API platform occasionally receive small, introductory **free trial credits** (historically around $5) valid for a few months to test code and endpoints.
-* **Hackathons & Competitions:** OpenAI regularly sponsors major AI hackathons (such as those hosted on Devpost or Lablab.ai). Participants often receive temporary **free API keys** or promotional token credits for the duration of the event.
+* **[Developer Trial Credits](https://platform.openai.com/):** New developer accounts on the OpenAI API platform occasionally receive small, introductory **free trial credits** (historically around $5) valid for a few months to test code and endpoints.
+* **[Hackathons & Competitions](https://devpost.com/):** OpenAI regularly sponsors major AI hackathons (such as those hosted on Devpost or Lablab.ai). Participants often receive temporary **free API keys** or promotional token credits for the duration of the event.
 
 ##  Star History
 <div align="center">
